@@ -1,0 +1,27 @@
+{
+  "name": "muxic",
+  "version": "1.0.0",
+  "description": "mp3 downloader",
+  "main": "src/index.js",
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "test": "node --test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/twopercenz/MUXIC.js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/twopercenz/MUXIC.js/issues"
+  },
+  "homepage": "https://github.com/twopercenz/MUXIC.js#readme",
+  "dependencies": {
+    "youtubei.js": "^18.0.0"
+  }
+}
